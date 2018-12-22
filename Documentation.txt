@@ -1,0 +1,10 @@
+Current Date Time not working in Student class while inserting.
+
+Have not set updated by to current logged in user.
+
+
+
+<a type="button" class="btn btn-icon waves-effect waves-light btn-success"> <i class="fa fa-music"></i> </a>
+                                        	<a type="button" class="btn btn-icon waves-effect waves-light btn-warning"> <i class="fa fa-music"></i> </a>
+                                        	<a type="button" class="btn btn-icon waves-effect waves-light btn-primary"> <i class="fa fa-music"></i> </a>
+                                        	<a type="button" class="btn btn-icon waves-effect waves-light btn-info"> <i class="fa fa-music"></i> </a>
